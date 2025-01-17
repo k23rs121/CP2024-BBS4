@@ -251,13 +251,13 @@ textarea.form-control {
 }
 
 .btn-edit {
-    background-color: #28a745;
+    background-color: #0056b3;
     color: white;
     cursor: pointer;
 }
 
 .btn-edit:hover {
-    background-color: #218838;
+    background-color: #005da8;
 }
 
 .btn-delete {
